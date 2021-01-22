@@ -1,0 +1,25 @@
+{
+  "name": "esercizio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "promise-prompt": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/03kev/esercizio_promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/03kev/esercizio_promise/issues"
+  },
+  "homepage": "https://github.com/03kev/esercizio_promise#readme",
+  "description": ""
+}
